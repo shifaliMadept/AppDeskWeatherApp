@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppDeskWeatherApp</string>
+    <string name="ok">Okay</string>
+    <string name="title_location_permission">Location permission</string>
+    <string name="text_location_permission">Allow this app to access your loaction.</string>
+    <string name="permission_denied">Permission denied , to continue grant loaction permission.</string>
+    <string name="emptyfield">Enter a valid username.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emptyCity">Enter a city name.</string>
+</resources>
